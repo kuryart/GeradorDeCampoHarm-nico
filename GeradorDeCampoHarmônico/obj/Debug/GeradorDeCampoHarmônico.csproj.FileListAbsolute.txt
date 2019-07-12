@@ -1,0 +1,13 @@
+C:\Users\PauloCezar\source\repos\GeradorDeCampoHarmônico\GeradorDeCampoHarmônico\obj\Debug\GeradorDeCampoHarmônico.csprojAssemblyReference.cache
+C:\Users\PauloCezar\source\repos\GeradorDeCampoHarmônico\GeradorDeCampoHarmônico\obj\Debug\GeradorDeCampoHarmônico.Form1.resources
+C:\Users\PauloCezar\source\repos\GeradorDeCampoHarmônico\GeradorDeCampoHarmônico\obj\Debug\GeradorDeCampoHarmônico.Properties.Resources.resources
+C:\Users\PauloCezar\source\repos\GeradorDeCampoHarmônico\GeradorDeCampoHarmônico\obj\Debug\GeradorDeCampoHarmônico.csproj.GenerateResource.cache
+C:\Users\PauloCezar\source\repos\GeradorDeCampoHarmônico\GeradorDeCampoHarmônico\obj\Debug\GeradorDeCampoHarmônico.csproj.CoreCompileInputs.cache
+C:\Users\PauloCezar\source\repos\GeradorDeCampoHarmônico\GeradorDeCampoHarmônico\bin\Debug\GeradorDeCampoHarmônico.exe.config
+C:\Users\PauloCezar\source\repos\GeradorDeCampoHarmônico\GeradorDeCampoHarmônico\bin\Debug\GeradorDeCampoHarmônico.exe
+C:\Users\PauloCezar\source\repos\GeradorDeCampoHarmônico\GeradorDeCampoHarmônico\bin\Debug\GeradorDeCampoHarmônico.pdb
+C:\Users\PauloCezar\source\repos\GeradorDeCampoHarmônico\GeradorDeCampoHarmônico\bin\Debug\itextsharp.dll
+C:\Users\PauloCezar\source\repos\GeradorDeCampoHarmônico\GeradorDeCampoHarmônico\bin\Debug\itextsharp.xml
+C:\Users\PauloCezar\source\repos\GeradorDeCampoHarmônico\GeradorDeCampoHarmônico\obj\Debug\GeradorDeCampoHarmônico.csproj.CopyComplete
+C:\Users\PauloCezar\source\repos\GeradorDeCampoHarmônico\GeradorDeCampoHarmônico\obj\Debug\GeradorDeCampoHarmônico.exe
+C:\Users\PauloCezar\source\repos\GeradorDeCampoHarmônico\GeradorDeCampoHarmônico\obj\Debug\GeradorDeCampoHarmônico.pdb
